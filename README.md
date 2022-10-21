@@ -18,3 +18,8 @@ You can click the Preview link to take a look at your changes.
     ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Voltline&theme=dark&layout=compact)
   </a>
 </p>
+<p align="center">
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Voltline&theme=dark&layout=compact" alt="Voltline's languages" >
+  </a>
+</p>
