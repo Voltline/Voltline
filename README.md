@@ -1,11 +1,21 @@
-- 👋 Hi, I’m @Voltline
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Java,C,C++ & Python
+### - 👋 Hi, I’m @Voltline
+
+### - 🌱 I’m currently learning Java, C, C++, C# & Python
+
+#### &emsp; I'm now a college student studying in <a href="https://www.ecnu.edu.cn">East China Normal University</a>, this is my freshman in Computer Science.
+
 
 <!---
 Voltline/Voltline is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<p align="center">
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Voltline&theme=dark&layout=compact&card_width=445" alt="Voltline's languages" >
+  </a>
+</p>
+
 
 <p align="center">
   <a href="https://github.com/Voltline">
@@ -14,12 +24,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <p align="center">
-  <a href="#">
-    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Voltline&theme=dark&layout=compact)
-  </a>
-</p>
-<p align="center">
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Voltline&theme=dark&layout=compact" alt="Voltline's languages" >
+  <a href="https://github.com/Voltline">
+    <img src="https://github-profile-trophy.vercel.app/?username=Voltline&theme=onedark&row=1" alt="Voltline's trophy" >
   </a>
 </p>
