@@ -1,7 +1,6 @@
 ## - 👋 Hi, I’m @Voltline
-## - 🌱 I’m currently learning Java, C, C++, C# & Python
-
-### &emsp; I'm now a college student studying in <a href="https://www.ecnu.edu.cn">East China Normal University</a>.
+### &emsp; ✨ Languages: C/C++, Python, Java, C#
+### &emsp; ✨I'm now a college student studying in <a href="https://www.ecnu.edu.cn">East China Normal University</a>.
 
 
 <!---
