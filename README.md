@@ -1,9 +1,14 @@
 # - 👋 Welcome to Voltline's GitHub Page!
 > Do not ask me about the meaning of the name, actually it was just a random name, **DO NOT CALL ME "CABLE", THANK YOU!**
-### &emsp; ✨ Languages: C/C++, Python, Java
-### &emsp; ✨I'm now a college student studying in <a href="https://www.ecnu.edu.cn">East China Normal University</a>.
+## About Me
+### ✨ Languages: C/C++, Python, Java
+### ✨I'm now a college student studying in <a href="https://www.ecnu.edu.cn">East China Normal University</a>.
+---
+> &emsp; You can find me in so many platform, like CSDN, bilibili, even Steam! Just search the ID Voltline.<br>
+> &emsp; In the past few semesters, I've written some blogs for C or C++ learning(they are 2 different series), and I will write more, like Data Structure and Algorithm or Computer Graphics and so on.
 
 
+---
 <!---
 Voltline/Voltline is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
