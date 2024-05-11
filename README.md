@@ -2,7 +2,7 @@
 > Do not ask me about the meaning of the name, actually it was just a random name, **DO NOT CALL ME "CABLE", THANK YOU!**
 ## About Me
 ### ✨ Languages: C/C++, Python, Java
-### ✨I'm now a college student studying in <a href="https://www.ecnu.edu.cn">East China Normal University</a>.
+### ✨I'm now an undergraduate studying in <a href="https://www.ecnu.edu.cn">East China Normal University</a>.
 ---
 > &emsp; You can find me in so many platform, like CSDN, bilibili, even Steam! Just search the ID Voltline.<br>
 > &emsp; In the past few semesters, I've written some blogs for C or C++ learning(they are 2 different series), and I will write more, like Data Structure and Algorithm or Computer Graphics and so on.
