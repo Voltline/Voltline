@@ -1,11 +1,13 @@
 # 👋 Welcome to Voltline's GitHub Page!
 
-> ⚡️ Please don't ask about the meaning of the name—it's just a random choice. **And please, don't call me "CABLE." Thank you!**
-
+![GitHub followers](https://img.shields.io/github/followers/Voltline?label=Followers&style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/Voltline?affiliations=OWNER%2CCOLLABORATOR&style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=Voltline&color=blue)
 
 ## 🧑‍💻 About Me
 
 - 🎓 I'm currently an undergraduate student majoring in Computer Science at [East China Normal University](https://www.ecnu.edu.cn).
+- 💼 Currently interning at [ByteDance](https://www.bytedance.com/), focusing on iOS app development using Objective-C and UIKit.
 - 🧠 Passionate about system programming, algorithm design, and computer graphics.
 - 🛠️ Enthusiastic about building high-performance, scalable systems and tools.
 - 🌐 Active on various platforms like CSDN, Bilibili, and Steam. Just search for the ID `Voltline`.
@@ -36,13 +38,10 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Voltline&theme=dark&layout=compact&count_private=true&card_width=500" alt="Voltline's languages" >
-    <img src="https://github-readme-stats.vercel.app/api?username=Voltline&show_icons=true&count_private=true&include_all_commits=true&theme=radical&bg_color=45,4E5E7E,F2F2F1&title_color=FFFEEE" alt="Voltline's Stats" >
-  </a>
-</p>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Voltline&theme=dark&layout=compact&count_private=true&card_width=500" width="43%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Voltline&show_icons=true&count_private=true&include_all_commits=true&theme=radical&bg_color=45,4E5E7E,F2F2F1&title_color=FFFEEE" width="43%" />
+</div>
 
 ## 📬 Contact
 
