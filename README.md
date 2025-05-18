@@ -1,18 +1,34 @@
-# - 👋 Welcome to Voltline's GitHub Page!
-> Do not ask me about the meaning of the name, actually it was just a random name, **DO NOT CALL ME "CABLE", THANK YOU!**
-## About Me
-### ✨ Languages: C/C++, Go, Python, Swift, Objective-C, Java
-### ✨I'm now an undergraduate studying in <a href="https://www.ecnu.edu.cn">East China Normal University</a>.
----
-> &emsp; You can find me in so many platform, like CSDN, bilibili, even Steam! Just search the ID Voltline.<br>
-> &emsp; In the past few semesters, I've written some blogs for C or C++ learning(they are 2 different series), and I will write more, like Data Structure and Algorithm or Computer Graphics and so on.
+# 👋 Welcome to Voltline's GitHub Page!
+
+> ⚡️ Please don't ask about the meaning of the name—it's just a random choice. **And please, don't call me "CABLE." Thank you!**
 
 
----
-<!---
-Voltline/Voltline is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🧑‍💻 About Me
+
+- 🎓 I'm currently an undergraduate student majoring in Computer Science at [East China Normal University](https://www.ecnu.edu.cn).
+- 🧠 Passionate about system programming, algorithm design, and computer graphics.
+- 🛠️ Enthusiastic about building high-performance, scalable systems and tools.
+- 🌐 Active on various platforms like CSDN, Bilibili, and Steam. Just search for the ID `Voltline`.
+
+## 💻 Tech Stack
+
+- **Programming Languages**: C/C++, Go, Python, Swift, Objective-C, Java
+- **Development Areas**: System Programming, Compiler Design, Computer Graphics, Network Communication, Data Structures & Algorithms
+
+## 🚀 Featured Projects
+
+### 🔧 Systems & Tools
+
+- [MySTL](https://github.com/Voltline/MySTL): A simplified version of the C++ STL implemented from scratch, covering containers like vector, list, and queue.
+- [QuickIM](https://github.com/Voltline/QuickIM): A C++-based instant messaging tool supporting basic message sending and receiving functionalities.
+
+### 📚 Course Projects
+- [L25-Compiler](https://github.com/Voltline/L25-Compiler): A compiler project written in C++ as a final assignment for the Compiler Principles course, supporting basic syntax analysis and code generation.
+- [Wisdom-Academic-Affairs](https://github.com/Voltline/Wisdom-Academic-Affairs): A data structures course project based on Qt, simulating an academic affairs management system.
+- [Fight_Against_Gravity](https://github.com/Voltline/Fight_Against_Gravity): A 2D game developed using Pygame where players control a character to overcome gravity and complete various challenges.
+- [Betterfly2](https://github.com/Voltline/Betterfly2): A server project developed in Go, aiming to provide high-performance Instant-Message-Service backend support.
+
+## 📈 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/Voltline">
@@ -26,3 +42,12 @@ You can click the Preview link to take a look at your changes.
     <img src="https://github-readme-stats.vercel.app/api?username=Voltline&show_icons=true&count_private=true&include_all_commits=true&theme=radical&bg_color=45,4E5E7E,F2F2F1&title_color=FFFEEE" alt="Voltline's Stats" >
   </a>
 </p>
+
+
+## 📬 Contact
+
+- 📫 Email: Voltline@vip.qq.com
+- 🌐 Other Platforms: Search for `Voltline` on CSDN, Bilibili, and Steam.
+
+
+Feel free to star or fork any of my projects, and don't hesitate to open issues or discussions!
