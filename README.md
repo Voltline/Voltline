@@ -39,8 +39,8 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Voltline&theme=dark&layout=compact&count_private=true&card_width=500" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Voltline&show_icons=true&count_private=true&include_all_commits=true&theme=radical&bg_color=45,4E5E7E,F2F2F1&title_color=FFFEEE" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Voltline&theme=dark&layout=compact&count_private=true&card_width=500" width="52%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Voltline&show_icons=true&count_private=true&include_all_commits=true&theme=radical&bg_color=45,4E5E7E,F2F2F1&title_color=FFFEEE" width="45%" />
 </div>
 
 ## 📬 Contact
