@@ -33,15 +33,13 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/Voltline">
-    <img src="https://github-profile-trophy.vercel.app/?username=Voltline&theme=onedark&row=1" alt="Voltline's trophy" >
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Voltline&theme=onedark&row=1&margin-w=15" width="100%" alt="Voltline's Trophy" />
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Voltline&theme=dark&layout=compact&count_private=true&card_width=500" width="54%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Voltline&show_icons=true&count_private=true&include_all_commits=true&theme=radical&bg_color=45,4E5E7E,F2F2F1&title_color=FFFEEE" width="45%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Voltline&layout=compact&theme=dark&card_width=400" width="49.5%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Voltline&show_icons=true&count_private=true&include_all_commits=true&theme=radical&card_width=400" width="49.5%" alt="GitHub Stats" />
+</p>
 
 ## 📬 Contact
 
