@@ -7,7 +7,7 @@
 ## 🧑‍💻 About Me
 
 - 🎓 I'm currently an undergraduate student majoring in Computer Science at [East China Normal University](https://www.ecnu.edu.cn).
-- 💼 Currently interning at [ByteDance](https://www.bytedance.com/), focusing on iOS app development using Objective-C and UIKit.
+- 💼 Previously interned at [ByteDance](https://www.bytedance.com/), focusing on iOS app development using Objective-C and UIKit.
 - 🧠 Passionate about system programming, algorithm design, and computer graphics.
 - 🛠️ Enthusiastic about building high-performance, scalable systems and tools.
 - 🌐 Active on various platforms like CSDN, Bilibili, and Steam. Just search for the ID `Voltline`.
