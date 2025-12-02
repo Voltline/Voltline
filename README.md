@@ -38,7 +38,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Voltline&layout=compact&theme=dark&card_width=400" width="49.5%" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Voltline&show_icons=true&count_private=true&include_all_commits=true&theme=radical&card_width=400" width="49.5%" alt="GitHub Stats" />
 </p>
 
 ## 📬 Contact
