@@ -30,16 +30,6 @@
 - [Fight_Against_Gravity](https://github.com/Voltline/Fight_Against_Gravity): A 2D game developed using Pygame where players control a character to overcome gravity and complete various challenges.
 - [Betterfly2](https://github.com/Voltline/Betterfly2): A server project developed in Go, aiming to provide high-performance Instant-Message-Service backend support.
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Voltline&theme=onedark&row=1&margin-w=15" width="100%" alt="Voltline's Trophy" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Voltline&layout=compact&theme=dark&card_width=400" width="49.5%" alt="Top Languages" />
-</p>
-
 ## 📬 Contact
 
 - 📫 Email: Voltline@vip.qq.com
