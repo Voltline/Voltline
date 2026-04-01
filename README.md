@@ -23,12 +23,12 @@
 
 - [MySTL](https://github.com/Voltline/MySTL): A simplified version of the C++ STL implemented from scratch, covering containers like vector, list, and queue.
 - [QuickIM](https://github.com/Voltline/QuickIM): A C++-based instant messaging tool supporting basic message sending and receiving functionalities.
+- [Betterfly2](https://github.com/Voltline/Betterfly2): A server project developed in Go, aiming to provide high-performance Instant-Message-Service backend support.
 
 ### 📚 Course Projects
 - [L25-Compiler](https://github.com/Voltline/L25-Compiler): A compiler project written in C++ as a final assignment for the Compiler Principles course, supporting basic syntax analysis and code generation.
 - [Wisdom-Academic-Affairs](https://github.com/Voltline/Wisdom-Academic-Affairs): A data structures course project based on Qt, simulating an academic affairs management system.
 - [Fight_Against_Gravity](https://github.com/Voltline/Fight_Against_Gravity): A 2D game developed using Pygame where players control a character to overcome gravity and complete various challenges.
-- [Betterfly2](https://github.com/Voltline/Betterfly2): A server project developed in Go, aiming to provide high-performance Instant-Message-Service backend support.
 
 ## 📬 Contact
 
