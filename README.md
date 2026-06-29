@@ -31,7 +31,7 @@
 
 ## 📬 Contact
 
-- 📫 Email: Voltline@vip.qq.com
+- 📫 Email: voltline233@gmail.com
 - 🌐 Other Platforms: Search for `Voltline` on CSDN, Bilibili, and Steam.
 
 
